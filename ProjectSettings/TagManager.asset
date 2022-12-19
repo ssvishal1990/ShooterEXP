@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hostile
+  - Ground
+  - Enemy
+  - Obstacles
+  - SpecialAttackParticle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Hostile
+  - Ground
+  - Obstacles
+  - SpecialAttackParticle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2189045809
+    locked: 0
+  - name: Hostile
+    uniqueID: 2517133049
+    locked: 0
+  - name: Ground
+    uniqueID: 3870650333
+    locked: 0
+  - name: SpecialAttackParticle
+    uniqueID: 3963513565
+    locked: 0
